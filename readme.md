@@ -1,2 +1,3 @@
 # tere
 feature line 1
+feature line 2
